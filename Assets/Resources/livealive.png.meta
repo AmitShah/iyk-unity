@@ -1,0 +1,1361 @@
+fileFormatVersion: 2
+guid: bf283583248cc44cf985595091479587
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6466342720565791905
+    second: livealive_0
+  - first:
+      213: 1990035669812183417
+    second: livealive_1
+  - first:
+      213: 5629683799456003219
+    second: livealive_2
+  - first:
+      213: 6049237144114965758
+    second: livealive_3
+  - first:
+      213: -1865158642801127448
+    second: livealive_4
+  - first:
+      213: 1379625773733505815
+    second: livealive_5
+  - first:
+      213: 6535564803319915906
+    second: livealive_6
+  - first:
+      213: -1443677874068390608
+    second: livealive_7
+  - first:
+      213: 165102849865202022
+    second: livealive_8
+  - first:
+      213: -3545262230865452648
+    second: livealive_9
+  - first:
+      213: -7754365765895022874
+    second: livealive_10
+  - first:
+      213: -3781983210723716475
+    second: livealive_11
+  - first:
+      213: 8214851337390381968
+    second: livealive_12
+  - first:
+      213: 2006166822814707965
+    second: livealive_13
+  - first:
+      213: -19474574102668062
+    second: livealive_14
+  - first:
+      213: -3607846428898303002
+    second: livealive_15
+  - first:
+      213: -6148925077673784415
+    second: livealive_16
+  - first:
+      213: 2422680757449920659
+    second: livealive_17
+  - first:
+      213: -6485399288852971278
+    second: livealive_18
+  - first:
+      213: -7674691094483541574
+    second: livealive_19
+  - first:
+      213: -5817239431976071061
+    second: livealive_20
+  - first:
+      213: -2158834031675234569
+    second: livealive_21
+  - first:
+      213: -8685073174377439284
+    second: livealive_22
+  - first:
+      213: -1920143404604831009
+    second: livealive_23
+  - first:
+      213: 87578229677552346
+    second: livealive_24
+  - first:
+      213: -3003034325604866063
+    second: livealive_25
+  - first:
+      213: -2356741979544493239
+    second: livealive_26
+  - first:
+      213: 1955878986792394909
+    second: livealive_27
+  - first:
+      213: -4176833200878365352
+    second: livealive_28
+  - first:
+      213: 6664901794243786009
+    second: livealive_29
+  - first:
+      213: 3673559534766715043
+    second: livealive_30
+  - first:
+      213: -6255499565991586766
+    second: livealive_31
+  - first:
+      213: 8521757728716835003
+    second: livealive_32
+  - first:
+      213: -834998137858143257
+    second: livealive_33
+  - first:
+      213: 8277177880744741684
+    second: livealive_34
+  - first:
+      213: -2101995172868525374
+    second: livealive_35
+  - first:
+      213: 1555081578941169704
+    second: livealive_36
+  - first:
+      213: 3530083436932513363
+    second: livealive_37
+  - first:
+      213: 6225383555891903044
+    second: livealive_38
+  - first:
+      213: 1975160658904357870
+    second: livealive_39
+  - first:
+      213: 6569301924419110096
+    second: livealive_40
+  - first:
+      213: 36873708586610285
+    second: livealive_41
+  - first:
+      213: 4837847418549798284
+    second: livealive_42
+  - first:
+      213: -266779701623380116
+    second: livealive_43
+  - first:
+      213: -7035125443864496229
+    second: livealive_44
+  - first:
+      213: -5426655313482069998
+    second: livealive_45
+  - first:
+      213: -3133293983244947074
+    second: livealive_46
+  - first:
+      213: -4120250495394912774
+    second: livealive_47
+  - first:
+      213: 9073627854740575339
+    second: livealive_48
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: livealive_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 958
+        height: 3865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acc147b1701db950800000000000000
+      internalID: 6466342720565791905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 21
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9710385e5e60e9b10800000000000000
+      internalID: 1990035669812183417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 21
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394b8589697a02e40800000000000000
+      internalID: 5629683799456003219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 21
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc2211e12533f350800000000000000
+      internalID: 6049237144114965758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 21
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efc61ea810ad16e0800000000000000
+      internalID: -1865158642801127448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 21
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71beb56e45a652310800000000000000
+      internalID: 1379625773733505815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 21
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285ed6ccf8df2ba50800000000000000
+      internalID: 6535564803319915906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 21
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dff0a5f9607fbe0800000000000000
+      internalID: -1443677874068390608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 21
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669be9dca209a4200800000000000000
+      internalID: 165102849865202022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 21
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891e7add8c2bccec0800000000000000
+      internalID: -3545262230865452648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 21
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e690699b65f26490800000000000000
+      internalID: -7754365765895022874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 21
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5825252ce42b38bc0800000000000000
+      internalID: -3781983210723716475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 21
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bdbc764c3010270800000000000000
+      internalID: 8214851337390381968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_13
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 21
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df07b02a81657db10800000000000000
+      internalID: 2006166822814707965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 21
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec55706affcabff0800000000000000
+      internalID: -19474574102668062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 21
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3ea51c9ca5eedc0800000000000000
+      internalID: -3607846428898303002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 21
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab43c26831aaaaa0800000000000000
+      internalID: -6148925077673784415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 21
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3901aff10571f9120800000000000000
+      internalID: 2422680757449920659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 21
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0095935bb3ff5a0800000000000000
+      internalID: -6485399288852971278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_19
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 21
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab16470ac150e7590800000000000000
+      internalID: -7674691094483541574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 21
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60dba3ce83054fa0800000000000000
+      internalID: -5817239431976071061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f629fcd2e74a02e0800000000000000
+      internalID: -2158834031675234569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf55f0a6fb687780800000000000000
+      internalID: -8685073174377439284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda48b23fb74a55e0800000000000000
+      internalID: -1920143404604831009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 5
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2fcf59fe3273100800000000000000
+      internalID: 87578229677552346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7640e01341356d0800000000000000
+      internalID: -3003034325604866063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943eff9f7ab2b4fd0800000000000000
+      internalID: -2356741979544493239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d906967639da42b10800000000000000
+      internalID: 1955878986792394909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85556976558e806c0800000000000000
+      internalID: -4176833200878365352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_29
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915b3c4aedc7e7c50800000000000000
+      internalID: 6664901794243786009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0f40bfeea1bf230800000000000000
+      internalID: 3673559534766715043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 5
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234167ca9400039a0800000000000000
+      internalID: -6255499565991586766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_32
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 5
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb84b1a018d534670800000000000000
+      internalID: 8521757728716835003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 5
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb4adc1e9d7964f0800000000000000
+      internalID: -834998137858143257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_34
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 5
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bc28c9d617ed270800000000000000
+      internalID: 8277177880744741684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_35
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 4
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2f591f68634d2e0800000000000000
+      internalID: -2101995172868525374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 4
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820ca85f472c49510800000000000000
+      internalID: 1555081578941169704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 4
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e3ad5ce206df030800000000000000
+      internalID: 3530083436932513363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_38
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 4
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44abe7f4c51056650800000000000000
+      internalID: 6225383555891903044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_39
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 4
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb1258872e296b10800000000000000
+      internalID: 1975160658904357870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_40
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 4
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d48a4b6b49da2b50800000000000000
+      internalID: 6569301924419110096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_41
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 4
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e2bdd4170038000800000000000000
+      internalID: 36873708586610285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_42
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85833c589c732340800000000000000
+      internalID: 4837847418549798284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_43
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 4
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67247b56453c4cf0800000000000000
+      internalID: -266779701623380116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_44
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 4
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97f428bea63e5e90800000000000000
+      internalID: -7035125443864496229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_45
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2184a697eb5a0b4b0800000000000000
+      internalID: -5426655313482069998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_46
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71f0df19bd4484d0800000000000000
+      internalID: -3133293983244947074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_47
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 4
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5eb54210ee1d6c0800000000000000
+      internalID: -4120250495394912774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: livealive_48
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 4
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64d6e1b5700ced70800000000000000
+      internalID: 9073627854740575339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      livealive_0: 6466342720565791905
+      livealive_1: 1990035669812183417
+      livealive_10: -7754365765895022874
+      livealive_11: -3781983210723716475
+      livealive_12: 8214851337390381968
+      livealive_13: 2006166822814707965
+      livealive_14: -19474574102668062
+      livealive_15: -3607846428898303002
+      livealive_16: -6148925077673784415
+      livealive_17: 2422680757449920659
+      livealive_18: -6485399288852971278
+      livealive_19: -7674691094483541574
+      livealive_2: 5629683799456003219
+      livealive_20: -5817239431976071061
+      livealive_21: -2158834031675234569
+      livealive_22: -8685073174377439284
+      livealive_23: -1920143404604831009
+      livealive_24: 87578229677552346
+      livealive_25: -3003034325604866063
+      livealive_26: -2356741979544493239
+      livealive_27: 1955878986792394909
+      livealive_28: -4176833200878365352
+      livealive_29: 6664901794243786009
+      livealive_3: 6049237144114965758
+      livealive_30: 3673559534766715043
+      livealive_31: -6255499565991586766
+      livealive_32: 8521757728716835003
+      livealive_33: -834998137858143257
+      livealive_34: 8277177880744741684
+      livealive_35: -2101995172868525374
+      livealive_36: 1555081578941169704
+      livealive_37: 3530083436932513363
+      livealive_38: 6225383555891903044
+      livealive_39: 1975160658904357870
+      livealive_4: -1865158642801127448
+      livealive_40: 6569301924419110096
+      livealive_41: 36873708586610285
+      livealive_42: 4837847418549798284
+      livealive_43: -266779701623380116
+      livealive_44: -7035125443864496229
+      livealive_45: -5426655313482069998
+      livealive_46: -3133293983244947074
+      livealive_47: -4120250495394912774
+      livealive_48: 9073627854740575339
+      livealive_5: 1379625773733505815
+      livealive_6: 6535564803319915906
+      livealive_7: -1443677874068390608
+      livealive_8: 165102849865202022
+      livealive_9: -3545262230865452648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
