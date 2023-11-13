@@ -1140,7 +1140,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 0xdeadbee
+  m_text: --
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 492a0e447eed14b06835f3e82056cad7, type: 2}
   m_sharedMaterial: {fileID: 1221997987346357673, guid: 492a0e447eed14b06835f3e82056cad7, type: 2}
@@ -1270,8 +1270,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2, y: 0}
-  m_SizeDelta: {x: 2.3748, y: 0.5361}
+  m_AnchoredPosition: {x: 2.5, y: 0}
+  m_SizeDelta: {x: 3, y: 0.5361}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1207378848
 GameObject:
@@ -1456,7 +1456,7 @@ GameObject:
   - component: {fileID: 1255194197}
   - component: {fileID: 1255194196}
   m_Layer: 0
-  m_Name: Text (TMP) (1)
+  m_Name: userAttack (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1478,8 +1478,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2, y: 0}
-  m_SizeDelta: {x: 2.3748, y: 0.5361}
+  m_AnchoredPosition: {x: 2.5, y: 0}
+  m_SizeDelta: {x: 3, y: 0.5361}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1255194196
 MonoBehaviour:
@@ -1501,7 +1501,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 250
+  m_text: --
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 492a0e447eed14b06835f3e82056cad7, type: 2}
   m_sharedMaterial: {fileID: 1221997987346357673, guid: 492a0e447eed14b06835f3e82056cad7, type: 2}
@@ -1883,8 +1883,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   userNameTMP: {fileID: 1084213418}
-  bossHealthTMP: {fileID: 0}
-  attackPowerTMP: {fileID: 0}
+  bossHealthTMP: {fileID: 2103320200}
+  attackPowerTMP: {fileID: 1255194196}
+  selectorParent: {fileID: 317618042}
+  m_Camera: {fileID: 1063459982}
+  fx: {fileID: 1538118082744881259, guid: cb645236644de4921a8e9427d3269f2b, type: 3}
+  selectorTargetPosition: {x: 0, y: 0, z: 0}
+  targets:
+  - {fileID: 1046301577}
+  - {fileID: 1657367024}
+  Duration: 1
+  cameraShakeDuration: 0.2
+  cameraShakeDecreaseFactor: 1
+  cameraShakeAmount: 0.2
 --- !u!1 &1644810681
 GameObject:
   m_ObjectHideFlags: 0
@@ -2028,7 +2039,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: aeebdb1164b0444e195c829a33440f52, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.1
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aeebdb1164b0444e195c829a33440f52, type: 3}
       propertyPath: m_LocalScale.y
@@ -2036,11 +2047,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aeebdb1164b0444e195c829a33440f52, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aeebdb1164b0444e195c829a33440f52, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2
+      value: -8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: aeebdb1164b0444e195c829a33440f52, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2309,7 +2320,7 @@ GameObject:
   - component: {fileID: 2103320201}
   - component: {fileID: 2103320200}
   m_Layer: 0
-  m_Name: Text (TMP) (1)
+  m_Name: bossHealth (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
